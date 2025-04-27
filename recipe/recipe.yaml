@@ -27,6 +27,7 @@ requirements:
     - polars >=1.6.0
     - sqlalchemy >=2.0.0
     - pyarrow >=11.0.0
+    - pydiverse-common >=0.1.0
   run_constraints:
     - python-duckdb >=0.8.1
     - duckdb-engine >=0.9.1
